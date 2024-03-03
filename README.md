@@ -13,9 +13,11 @@
 ##
 > ### Configurações:
 ##
-  - Criar um recurso de Pesquisa de IA do Azure
-  - Criar uma conta de armazenamento
-  - Carregar documentos no Armazenamento do Azure
+  - Criar um recurso de Pesquisa de IA do Azure;
+  - Criar uma conta de armazenamento;
+  - Carregar documentos no Armazenamento do Azure;
+    - Acima estão as configurações existentes na documentação e nas aulas do laboratorio 04 - prática;
+    - Os que não estão inclusos fiz seguindo a documentação descrita nas referências.
   - Indexar os documentos
       - No portal do Azure, navegue até seu recurso de Pesquisa de IA do Azure. Na página Visão geral, selecione Importar dados.
         ![image](https://github.com/vinicius-campelo/lab4-ia900/assets/74797865/b0e0548e-8f10-4d89-9c42-55ec1612a2ab)
@@ -77,18 +79,14 @@
         ![image](https://github.com/vinicius-campelo/lab4-ia900/assets/74797865/8608b348-9b52-4c91-b8de-3ecf2e54ee96)
         ![image](https://github.com/vinicius-campelo/lab4-ia900/assets/74797865/d2d6062c-0ec3-4367-b725-5a06e68d85ce)
         ![image](https://github.com/vinicius-campelo/lab4-ia900/assets/74797865/6c7ca1e6-0c5c-4a0c-831e-9ffcc9c0350b)
+        # TESTE
+        ![image](https://github.com/vinicius-campelo/lab4-ia900/assets/74797865/07a39817-48de-4d51-8e7d-c1d8390894e4)
+        ![image](https://github.com/vinicius-campelo/lab4-ia900/assets/74797865/afc11142-7d8f-44f1-8365-38a8ef5ca88a)
 
 
+        - Minha conclusão e que a parte de busca e mais complexo que os outros laboratórios;
 
 
-
-
-
-
-
-
-  - Consultar o índice
-  - Revisar o repositório de conhecimento
 
 > ## Referências:
 
